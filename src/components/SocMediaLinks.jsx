@@ -12,7 +12,7 @@ const SocMediaLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in",
+      href: "https://www.linkedin.com/in/joemonvvelassery/",
       style: "rounded-tr-md",
     },
     {
@@ -22,7 +22,7 @@ const SocMediaLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com",
+      href: "https://github.com/Joemonv1997",
     },
     {
       id: 3,
@@ -40,7 +40,7 @@ const SocMediaLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/",
+      href: "/Resume -Joemon.pdf",
       style: "rounded-br-md",
       download: true,
     },

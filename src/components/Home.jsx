@@ -3,7 +3,7 @@ import React from "react";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 import webdev from "../assets/webdev.png"
-import SocMediaLinks2 from "./SocMediaLinks1";
+import SocMediaLinks from "./SocMediaLinks";
 
 
 const Home = () => {
@@ -37,7 +37,7 @@ const Home = () => {
                 </span>
               </Link>
               <div className="py-4 px-8">
-                <SocMediaLinks2 />
+                <SocMediaLinks />
                 </div>
               
             </div>

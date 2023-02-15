@@ -12,7 +12,7 @@ const SocMediaLinks = () => {
         <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "",
+      href: "/Resume -Joemon.pdf",
       download: true,
     },
     {
@@ -22,7 +22,7 @@ const SocMediaLinks = () => {
           <FaLinkedin size={30} />
         </>
       ),
-      href: "",
+      href: "https://www.linkedin.com/in/joemonvvelassery/",
     },
     {
       id: 3,
@@ -31,7 +31,7 @@ const SocMediaLinks = () => {
         <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com",
+      href: "https://github.com/Joemonv1997",
     },
     {
       id: 4,
